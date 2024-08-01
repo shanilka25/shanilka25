@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanilka25" alt="shanilka25" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks,Mearnstack ,javascript,Uiand Ux **
+- 🌱 I’m currently learning **Frameworks,Mearnstack ,javascript,Ui and Ux **
 
-- 💬 Ask me about **c,c++ ,java ,react.**
+- 💬 Ask me about **figma, androidstudio , c,c++ ,java ,react.**
 
 - 📫 How to reach me **hiranwic2001@gmail.com**
 
